@@ -1,0 +1,18 @@
+{
+  "name": "aye",
+  "version": "1.0.0",
+  "description": "Discord bot",
+  "main": "Aye.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Grimmstarrk",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.1.0",
+    "ms": "^2.0.0",
+    "opusscript": "0.0.3",
+    "pretty-ms": "^3.0.0",
+    "ytdl-core": "^0.15.0"
+  }
+}
